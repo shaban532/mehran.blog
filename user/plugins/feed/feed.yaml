@@ -1,7 +1,7 @@
 enabled: true
 limit: 1000
-title: 'یادداشت‌های مهران شعبانی'
-description: 'یادداشت‌های مهران شعبانی'
+title: 'یادداشت‌های یک آدم متأهل'
+description: 'یادداشت‌های یک آدم متأهل'
 length: 100
 enable_json_feed: false
 show_last_modified: false

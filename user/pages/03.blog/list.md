@@ -1,5 +1,5 @@
 ---
-title: یادداشت‌های مهران شعبانی
+title: یادداشت‌های یک آدم متأهل
 metadata:
 content:
   items: '@self.children'
