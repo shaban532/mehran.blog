@@ -15,4 +15,4 @@ jobs:
         username: ${{ secrets.FTP_USERNAME }}
         password: ${{ secrets.FTP_PASSWORD }}
         server-dir: ${{ secrets.FTP_LOCALDIR }}
-        local-dir: ./user/pages/
+        local-dir: ./user/
