@@ -14,5 +14,5 @@ jobs:
         server: ${{ secrets.FTP_SERVER }}
         username: ${{ secrets.FTP_USERNAME }}
         password: ${{ secrets.FTP_PASSWORD }}
-        server-dir: ${{ secrets.FTP_LOCALDIR }}
-        local-dir: ./user/
+        server-dir: ./user/pages/
+        local-dir: ./user/pages/
